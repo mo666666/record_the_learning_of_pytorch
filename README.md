@@ -12,3 +12,4 @@ website for pytorch tutorial: https://www.pytorchtutorial.com/docs/<br/>
 website for creating your own dataset using pytorch : https://blog.csdn.net/XX_123_1_RJ/article/details/98879565?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task <br/>
 https://blog.csdn.net/u011995719/article/details/85102770?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task<br/>
 website for __torchvision.transform__ :https://blog.csdn.net/qq_38410428/article/details/94719553<br/>
+website for __transforms.Normalize__ :https://stackoverflow.com/questions/56745486/pytorch-dataloader-indexerror-too-many-indices-for-tensor-of-dimension-0/56745860 <br/>
