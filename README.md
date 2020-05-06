@@ -3,9 +3,12 @@ This respository is a tool to push me to learn pytorch.
 ## website for writing rename.md:
 website for Grammar used in rename.md: https://blog.csdn.net/u011537073/article/details/85837991?depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-2&utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-2<br/>
 ## website for creating conda virtual environment in anaconda:
-website for creating conda virtual environment in anaconda: https://www.jianshu.com/p/1cd6333128a1
+website for creating conda virtual environment in anaconda: https://www.jianshu.com/p/1cd6333128a1 <br/>
 ## website for the grammar of python
-usage of format. : https://blog.csdn.net/u012149181/article/details/78965472
+usage of format. : https://blog.csdn.net/u012149181/article/details/78965472 <br/>
+usage of lambda : https://www.bilibili.com/video/BV1pW411P7pr?from=search&seid=15242015473903431113 <br/>
+usage of filter : https://www.runoob.com/python/python-func-filter.html <br/>
+usage of endwith : https://www.runoob.com/python3/python3-string-endswith.html <br/>
 ## website for learning pytorch:
 website for loading/saving the model of pytorch: https://www.jianshu.com/p/1cd6333128a1<br/> 
 website for pytorch tutorial: https://www.pytorchtutorial.com/docs/<br/>
