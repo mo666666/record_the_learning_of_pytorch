@@ -7,6 +7,7 @@ website for creating conda virtual environment in anaconda: https://www.jianshu.
 ## website for the grammar of python
 usage of format. : https://blog.csdn.net/u012149181/article/details/78965472 <br/>
 usage of lambda : https://www.bilibili.com/video/BV1pW411P7pr?from=search&seid=15242015473903431113 <br/>
+usage of filter : https://www.runoob.com/python/python-func-filter.html <br/>
 ## website for learning pytorch:
 website for loading/saving the model of pytorch: https://www.jianshu.com/p/1cd6333128a1<br/> 
 website for pytorch tutorial: https://www.pytorchtutorial.com/docs/<br/>
