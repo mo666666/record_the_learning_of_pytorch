@@ -10,6 +10,8 @@ usage of lambda : https://www.bilibili.com/video/BV1pW411P7pr?from=search&seid=1
 usage of filter : https://www.runoob.com/python/python-func-filter.html <br/>
 usage of endwith : https://www.runoob.com/python3/python3-string-endswith.html <br/>
 usage of * in python : https://www.cnblogs.com/mrdoghead/p/12014270.html <br/>
+usage of enumerate : https://www.runoob.com/python/python-func-enumerate.html <br/>
+usage of zip ： https://www.runoob.com/python/python-func-zip.html<br/>
 ## website for learning pytorch:
 website for loading/saving the model of pytorch: https://www.jianshu.com/p/1cd6333128a1<br/> 
 website for pytorch tutorial: https://www.pytorchtutorial.com/docs/<br/>
